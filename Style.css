@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+}
+
+.heading_h3{
+    color: black;
+    margin: 0px;
+}
